@@ -1,7 +1,7 @@
 Sprockets-sample
 ================
 
-An example of how to embed sprockets in an arbitrary language/framework
+An example of how to embed sprockets in an arbitrary language/framework.
 
 ## Requirements
 
